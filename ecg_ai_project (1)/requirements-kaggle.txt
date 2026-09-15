@@ -1,6 +1,0 @@
-# Extra dependencies for training on real PTB-XL data (e.g. on Kaggle).
-# torch/numpy are already covered by requirements.txt and are preinstalled
-# in Kaggle notebook images.
--r requirements.txt
-pandas>=1.5
-wfdb>=4.1
